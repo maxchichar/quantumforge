@@ -24,4 +24,4 @@ Build a practical tool that scans codebases for quantum-vulnerable cryptography 
 - Project 5: Real PQC Demo
 - Project 6: Web Interface
 
-Built while learning Go in Learn2Earn.ng
+Built while learning Go in https://www.learn2earn.ng
